@@ -7,6 +7,12 @@ http://csvconf.com
 2016 May 03/04  
 Berlin
 
+## Slides
+
+*They are here in this repo as PDF, but it's big.*
+
+View on Speakerdeck: <https://speakerdeck.com/jennybc/spreadsheets>.
+
 ## Credits, links, etc.
 
 Me, in other places
@@ -118,6 +124,11 @@ Examples of new spreadsheet implementations
   * pyspread
     - <http://manns.github.io/pyspread/>
     
+Some of the other csvconf talks from Stencila contributors
+
+  * [Oliver Buchtala and Michael Aufreiter](http://csvconf.com/#buchtalaaufreiter)
+  * [Jure Triglav](http://csvconf.com/#jtriglav)
+    
 Tweet: If your collaborator asks, “In what form would you like the data?” you should respond, “In its current form.”  
 <https://twitter.com/JeanVAdams/status/707241263645392896>
 
@@ -156,6 +167,10 @@ Mango blog post about R packages to read/write Excel:
   * <https://github.com/rsheets/linen>
   * <https://github.com/rsheets/rexcel>
   * <https://github.com/rsheets/jailbreakr>
+  
+David Robinson RPub tidying one of the Enron sheets  
+<http://rpubs.com/dgrtwo/tidying-enron>
+
 
 UBC Master of Data Science program  
 <http://mds.science.ubc.ca>
