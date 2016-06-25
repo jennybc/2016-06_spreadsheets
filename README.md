@@ -1,19 +1,24 @@
-## 2016-05-csvconf-spreadsheets
+## 2016-06_spreadsheets
 
-Talk given at csv, conf, v2:
+Talks given at
 
-http://csvconf.com
-
-2016 May 03/04  
-Berlin
+  * csv, conf, v2: <http://csvconf.com>
+    2016 May 03/04, Berlin
+  * Genentech, 2016 June 23, San Francisco
+  * BioC 2016: <http://bioconductor.org/help/course-materials/2016/BioC2016/>
+    2016 June 25/26, Stanford
+  * useR! 2016: <http://user2016.org> 2016 June 27 - 30, Stanford
 
 ## Slides
 
 *They are here in this repo as PDF, but it's big.*
 
-View on Speakerdeck: <https://speakerdeck.com/jennybc/spreadsheets>.
+View on Speakerdeck:
 
-## Credits, links, etc.
+  * The ~1 hour version: <https://speakerdeck.com/jennybc/spreadsheets> *still from May, not updated for June yet!*
+  * The 15 minute version: *to come*
+
+## People, credits, links, inspiration, etc.
 
 Me, in other places
 
@@ -21,7 +26,7 @@ Me, in other places
   * github: <https://github.com/jennybc>
   * STAT 545 twitter: <https://twitter.com/STAT545>
   * STAT 545 website: <http://stat545.com>
-  
+
 csv, conf, v1  
 <http://csvconf.com/2014/>
 
@@ -32,9 +37,10 @@ Felienne Hermans
 
 Rich FitzJohn  
 
-  * website: <http://richfitz.github.io>
+  * Research Software Engineer, University College London
   * github: <https://github.com/richfitz>
   * twitter: <https://twitter.com/rgfitzjohn>
+  * website: <http://richfitz.github.io>
   * <https://github.com/richfitz/jiffy>
 
 "50 million accountants use monads in Excel. They just don't go around explaining monads to everyone..."  
@@ -71,6 +77,8 @@ Donald Rumsfeld: "As you know, you go to war with the army you have, not the arm
 
 Chris Albon <https://twitter.com/chrisalbon> riffing on that w/r/t to a crazy web form: "You go to production with the features you know, not the features you need."  
 <https://twitter.com/chrisalbon/status/720613507457093632> 
+
+Me <https://twitter.com/JennyBryan/status/735671032636276736>: "The more spreadsheets I look at, the more I realize ppl use them like I use a git repo. It's how they manage data + "code" + figs & results."
 
 Thread of CRAZY spreadsheet stories, in response to my tweet:  
 <https://twitter.com/JennyBryan/status/722954354198597632>
@@ -114,6 +122,8 @@ Advice re: organizing data in spreadsheets
     - <http://www.datacarpentry.org/spreadsheet-ecology-lesson/>
   * Advice from UK Gov’t Statistical Service Good Practice Team
     - <https://gss.civilservice.gov.uk/wp-content/uploads/2012/12/Releasing-statistics-in-spreadsheets-Good-practice-guidance.pdf>
+  * Luis D. Verde blog post
+    - <http://luisdva.github.io/pls-don't-do-this/>
 
 Examples of new spreadsheet implementations
 
@@ -170,7 +180,6 @@ Mango blog post about R packages to read/write Excel:
   
 David Robinson RPub tidying one of the Enron sheets  
 <http://rpubs.com/dgrtwo/tidying-enron>
-
 
 UBC Master of Data Science program  
 <http://mds.science.ubc.ca>
