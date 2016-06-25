@@ -123,7 +123,7 @@ Advice re: organizing data in spreadsheets
   * Advice from UK Gov’t Statistical Service Good Practice Team
     - <https://gss.civilservice.gov.uk/wp-content/uploads/2012/12/Releasing-statistics-in-spreadsheets-Good-practice-guidance.pdf>
   * Luis D. Verde blog post
-    - <http://luisdva.github.io/pls-don't-do-this/>
+    - <http://luisdva.github.io/pls-don't-do-this>
 
 Examples of new spreadsheet implementations
 
