@@ -11,7 +11,7 @@ Talks given at
 
 ## Slides
 
-*They are here in this repo as PDF, but it's big.*
+*PDFs are here in this repo, but they're big. Suggest you browse on Speakerdeck instead.*
 
 View on Speakerdeck:
 
