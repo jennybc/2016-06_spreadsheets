@@ -15,8 +15,8 @@ Talks given at
 
 View on Speakerdeck:
 
-  * The ~1 hour version: <https://speakerdeck.com/jennybc/spreadsheets> *still from May, not updated for June yet!*
-  * The 15 minute version: *to come*
+  * The ~1 hour version: <https://speakerdeck.com/jennybc/spreadsheets>
+  * The 15 minute useR version: *to come*
 
 ## People, credits, links, inspiration, etc.
 
