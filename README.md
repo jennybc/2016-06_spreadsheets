@@ -11,12 +11,14 @@ Talks given at
 
 ## Slides
 
-*PDFs are here in this repo, but they're big. Suggest you browse on Speakerdeck instead.*
+Browse on Speakerdeck
 
-View on Speakerdeck:
+ * The ~1 hour version: <https://speakerdeck.com/jennybc/spreadsheets>
 
-  * The ~1 hour version: <https://speakerdeck.com/jennybc/spreadsheets>
-  * The 15 minute useR version: *to come*
+PDFs here in this repo
+
+  * The ~1 hour version: [2016-06_genentech-bioc.pdf](https://github.com/jennybc/2016-06_spreadsheets/blob/master/2016-06_genentech-bioc.pdf) *warning: big PDF, more pleasant to browse on [Speakerdeck](https://speakerdeck.com/jennybc/spreadsheets)*
+  * The 15 minute useR version: [2016-06_useR-stanford.pdf](https://github.com/jennybc/2016-06_spreadsheets/blob/master/2016-06_useR-stanford.pdf)
 
 ## People, credits, links, inspiration, etc.
 
