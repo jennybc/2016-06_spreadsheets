@@ -45,6 +45,11 @@ Rich FitzJohn
   * website: <http://richfitz.github.io>
   * <https://github.com/richfitz/jiffy>
 
+Gordon Shotwell tweets about dystopian moonscapes:
+
+  * <https://twitter.com/gshotwell/status/646219102609014785>
+  * <https://twitter.com/gshotwell/status/577485681146097664>
+
 "50 million accountants use monads in Excel. They just don't go around explaining monads to everyone..."  
 https://twitter.com/tomaspetricek/status/687947134088392704
 
