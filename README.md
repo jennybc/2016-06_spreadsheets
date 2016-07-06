@@ -20,6 +20,12 @@ PDFs here in this repo
   * The ~1 hour version: [2016-06_genentech-bioc.pdf](https://github.com/jennybc/2016-06_spreadsheets/blob/master/2016-06_genentech-bioc.pdf) *warning: big PDF, more pleasant to browse on [Speakerdeck](https://speakerdeck.com/jennybc/spreadsheets)*
   * The 15 minute useR version: [2016-06_useR-stanford.pdf](https://github.com/jennybc/2016-06_spreadsheets/blob/master/2016-06_useR-stanford.pdf)
 
+## Video
+
+Video of the 15 min talk at useR! 2016 @ Stanford:
+
+<https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/jailbreakr-Get-out-of-Excel-free>
+
 ## People, credits, links, inspiration, etc.
 
 Me, in other places
