@@ -8,6 +8,7 @@ Talks given at
   * BioC 2016: <http://bioconductor.org/help/course-materials/2016/BioC2016/>
     2016 June 25/26, Stanford
   * useR! 2016: <http://user2016.org> 2016 June 27 - 30, Stanford
+  * JSM 2016: [Reproducibility in Statistics and Data Science](https://www.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?sessionid=212538), invited session, 2016 Aug 3, Chicago
 
 ## Slides
 
